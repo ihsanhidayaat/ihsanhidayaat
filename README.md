@@ -1,6 +1,6 @@
 # Hi, I'm Ihsan 👋
 
-I'm a cloud enthusiast working through the Learn to Cloud curriculum.
+I'm a tech enthusiast working through the Learn to newest technologies.
 
 ## Connect with me
 - 🐙 GitHub: [my-github](https://github.com/ihsanhidayaat)
